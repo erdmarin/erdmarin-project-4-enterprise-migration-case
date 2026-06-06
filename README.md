@@ -342,4 +342,3 @@ This project demonstrates the breadth of thinking required at the Solutions Arch
 
 The architecture achieves all five migration objectives: datacenter exit within 18 months, 20% cost reduction through VMware and facility cost elimination, improved RTO from 24 hours to under 4 hours, a secure multi-account landing zone with centralised security and governance, and a modernised customer-facing platform on cloud-native services. The phased wave approach and honest risk analysis reflect the operational discipline that separates a successful enterprise migration from one that stalls at Wave 3 because the foundation was not right.
 
-Together with Projects 1, 2, and 3, this portfolio covers the complete cloud engineering and architecture spectrum: traditional HA infrastructure design, container-native deployment, automated microservices with IaC, and enterprise migration strategy — the four competency areas most consistently tested in AWS Solutions Architect interviews.
